@@ -1,0 +1,12 @@
+.social-icons a {
+  margin-right: 10px; /* Adjust the value as per your preference */
+}
+
+.App {
+  text-align: center;
+}
+
+.footer{
+  position: absolute;
+}
+
